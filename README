@@ -1,0 +1,54 @@
+Installation:
+=============
+ubuntu 15.04:
+-------------
+sudo add-apt-repository --yes ppa:js-reynaud/kicad-4
+sudo apt-get update
+sudo apt-get install kicad
+sudo apt-get install xsltproc # CSV BOM generation
+
+Configuration:
+==============
+Pcbnew lib path:
+----------------
+Open Pcbnew
+Preferences > Configure Paths
+Add a variable named MARCEL which points to your working dir
+
+Tuto:
+=====
+
+General tutorial:
+-----------------
+http://docs.kicad-pcb.org/fr/getting_started_in_kicad.html
+
+Add a logo on the PCB
+---------------------
+http://www.re-innovation.co.uk/web12/index.php/en/blog-75/230-adding-logo-to-kicad
+
+Generates gerber files for http://dirtypcbs.com/
+------------------------------------------------
+File > Plot
+In the "Layers" pannel, check the following boxes:
+F.Cu (Top Copper)
+B.Cu (Bottom Copper)
+F.SilkS (Top Silkscreen)
+B.SilkS (Bottom Silkscreen)
+F.Mask (Top Soldermask)
+B.Mask (Bottom Soldermask)
+Edge.Cuts (Board Outline)
+
+Check "Use Protel filename extensions"
+Click "Plot"
+The extension of the Edge.Cuts file is ".gm1", change it to ".gml" (change "one" to "L"). 
+
+Click "Generate Drill File"
+Put "Drill Units" in "Millimeters", we're civilized here
+Click "Drill File"
+dirtypcbs wants drill file to be a .txt, please rename it
+
+Known Issues:
+=============
+You get errors while importing the netlist in Pcbnew?
+ -> Re-generate Netlist in Eeschema
+ -> Should be done after component-footprint association with Cvpcb

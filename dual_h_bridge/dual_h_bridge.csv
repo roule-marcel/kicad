@@ -1,0 +1,40 @@
+Reference, Value, Footprint, Datasheet, Radiospares
+R101,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+Q102,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q104,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q101,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q103,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+D101,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D103,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D102,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D104,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+P101,CONN_01X04,Pin_Headers:Pin_Header_Straight_1x04,http://docs-europe.electrocomponents.com/webdocs/0da4/0900766b80da4106.pdf,674-2331
+P1,CONN_01X02,Connect:bornier2,http://docs-europe.electrocomponents.com/webdocs/138b/0900766b8138b923.pdf,425-8720
+C202,100µF 35V,Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5,http://docs-europe.electrocomponents.com/webdocs/143e/0900766b8143e653.pdf,862-3323
+C204,0.1µF 50V,Capacitors_SMD:C_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/134c/0900766b8134ce68.pdf,264-4416
+Q202,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q204,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q201,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+Q203,To be defined,TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads,
+D201,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D203,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D202,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D204,To be defined,Diodes_ThroughHole:Diode_DO-201AD_Horizontal_RM15,
+D1,Green,LEDs:LED_0805,http://docs-europe.electrocomponents.com/webdocs/08ce/0900766b808ce012.pdf,654-5773
+R102,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R104,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R103,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R201,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R202,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R203,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R204,10k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9072
+R1,1k,Resistors_SMD:R_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/0fcd/0900766b80fcdb72.pdf,740-9063
+C203,0.1µF 50V,Capacitors_SMD:C_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/134c/0900766b8134ce68.pdf,264-4416
+C201,100µF 35V,Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5,http://docs-europe.electrocomponents.com/webdocs/143e/0900766b8143e653.pdf,862-3323
+C102,100µF 35V,Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5,http://docs-europe.electrocomponents.com/webdocs/143e/0900766b8143e653.pdf,862-3323
+C104,0.1µF 50V,Capacitors_SMD:C_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/134c/0900766b8134ce68.pdf,264-4416
+C103,0.1µF 50V,Capacitors_SMD:C_0805_HandSoldering,http://docs-europe.electrocomponents.com/webdocs/134c/0900766b8134ce68.pdf,264-4416
+C101,100µF 35V,Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5,http://docs-europe.electrocomponents.com/webdocs/143e/0900766b8143e653.pdf,862-3323
+P201,CONN_01X04,Pin_Headers:Pin_Header_Straight_1x04,http://docs-europe.electrocomponents.com/webdocs/0da4/0900766b80da4106.pdf,674-2331
+P102,CONN_01X02,Connect:bornier2,http://docs-europe.electrocomponents.com/webdocs/138b/0900766b8138b923.pdf,425-8720
+P202,CONN_01X02,Connect:bornier2,http://docs-europe.electrocomponents.com/webdocs/138b/0900766b8138b923.pdf,425-8720
