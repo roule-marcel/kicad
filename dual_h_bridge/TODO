@@ -1,0 +1,8 @@
+The following component are hard to solder:
+C101, C102, C201, C202 -> Enlarge the Pads and thermal relief
+D101, D201, D103, D203, C104, C203 -> Modify the central polygon to add a thermal relief
+D102, D202, D104, D204 -> Enlarge thermal relief
+
+The BJTs are harder to command than I thought. The PNPs need a voltage equivalent to the battery's one to be switched off.
+The BJTs needs more than the 8mA that the FPGA can provide to switch.
+-> Add a first stage of transistors
