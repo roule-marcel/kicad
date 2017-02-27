@@ -1,8 +1,0 @@
-(module Z-Turn (layer F.Cu) (tedit 58AFFE80)
-  (fp_text reference REF** (at 0 17.78) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value Z-Turn (at 0 -17.78) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-)
