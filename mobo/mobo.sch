@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:z-turn
 LIBS:ncp3170
+LIBS:tle5206-2
 LIBS:mobo-cache
 EELAYER 25 0
 EELAYER END

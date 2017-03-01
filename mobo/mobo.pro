@@ -1,4 +1,4 @@
-update=mer. 01 mars 2017 10:50:25 CET
+update=mer. 01 mars 2017 15:00:27 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=lib/z-turn
 LibName31=lib/ncp3170
+LibName32=lib/tle5206-2
