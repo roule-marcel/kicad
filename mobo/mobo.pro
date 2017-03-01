@@ -1,4 +1,4 @@
-update=jeu. 23 févr. 2017 15:48:17 CET
+update=mer. 01 mars 2017 10:50:25 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/z-turn
+LibName31=lib/ncp3170

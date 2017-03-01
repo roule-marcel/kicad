@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:z-turn
+LIBS:ncp3170
 LIBS:mobo-cache
 EELAYER 25 0
 EELAYER END

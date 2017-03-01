@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:z-turn
+LIBS:ncp3170
 LIBS:mobo-cache
 EELAYER 25 0
 EELAYER END
@@ -48,6 +49,8 @@ $Comp
 L Z-turn U1
 U 2 1 58AFFC85
 P 8150 850
+AR Path="/58AFFC85" Ref="U1"  Part="2" 
+AR Path="/58AFFA77/58AFFC85" Ref="U1"  Part="2" 
 F 0 "U1" H 8700 1000 60  0000 C CNN
 F 1 "Z-turn" H 8700 900 60  0000 C CNN
 F 2 "Z-turn:Z-turn" H 9400 200 60  0001 C CNN
@@ -59,6 +62,8 @@ $Comp
 L Z-turn U1
 U 3 1 58AFFD12
 P 8150 3450
+AR Path="/58AFFD12" Ref="U1"  Part="3" 
+AR Path="/58AFFA77/58AFFD12" Ref="U1"  Part="3" 
 F 0 "U1" H 8700 3600 60  0000 C CNN
 F 1 "Z-turn" H 8700 3500 60  0000 C CNN
 F 2 "Z-turn:Z-turn" H 9400 2800 60  0001 C CNN
@@ -70,6 +75,8 @@ $Comp
 L Z-turn U1
 U 4 1 58AFFD3B
 P 2900 2100
+AR Path="/58AFFD3B" Ref="U1"  Part="4" 
+AR Path="/58AFFA77/58AFFD3B" Ref="U1"  Part="4" 
 F 0 "U1" H 3450 2250 60  0000 C CNN
 F 1 "Z-turn" H 3450 2150 60  0000 C CNN
 F 2 "Z-turn:Z-turn" H 4150 1450 60  0001 C CNN
